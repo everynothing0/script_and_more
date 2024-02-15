@@ -24,4 +24,4 @@ done
 
 echo "Opération terminée."
 
-#donne les permissions grosse pute
+#donne les permissions 
